@@ -1,6 +1,10 @@
+# Insertion Sort (C)
+
 Bu program, C dilinde yazilmis araya eklemeli siralama (Insertion Sort) algoritmasidir.
 Dizi kucukten buyuge siralanir.
 
+### Ornek Calisma Ciktisi
+```text
 Ilk hali   : 18  5 27  9 14
 Adim 1     :  5 18 27  9 14
 Adim 2     :  5 18 27  9 14
