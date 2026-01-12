@@ -1,12 +1,6 @@
-/*
-
-AD SOYAD : ZELİHA TUNCEL 
-ÖĞRENCİ NO : 2420171055
-BTK AKADEMİ SERTİFİKA BAĞLANTISI : https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=VP1cgxeBLd
-
-*/
-
-
+// AD SOYAD : ZELİHA TUNCEL 
+// ÖĞRENCİ NO : 2420171055
+// BTK AKADEMİ SERTİFİKA BAĞLANTISI : https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=VP1cgxeBLd
 
 #include <stdio.h>
 
